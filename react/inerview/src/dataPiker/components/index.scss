@@ -1,0 +1,12 @@
+.picker-container {
+  width: 400px;
+  background-color: aqua;
+
+  .weekday-container {
+    display: flex;
+
+    .weekday-name {
+      padding: 5px;
+    }
+  }
+}
